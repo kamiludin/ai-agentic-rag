@@ -51,7 +51,7 @@ This repository shows you how to build an **Agentic RAG chatbot** from scratch u
 
 ## Demo Video
 
-https://youtu.be/Qb5f2bVdB7Y?si=ULSh6Mxlo7vS7F2c
+https://youtu.be/LcXrwU3l6Vw?si=v-Ac5fIChIzi0eRt
 
 
 Thank You...
